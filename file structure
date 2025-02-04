@@ -1,0 +1,10 @@
+DAX-Filter-Context/
+│── dataset/                  # Raw and processed data
+│   ├── bank_loan_data.csv     # Sample dataset for the analysis
+│── reports/                   # Power BI reports and dashboards
+│   ├── Dax_filter_context.pbix # Power BI file with DAX calculations
+│── docs/                      # Documentation and insights
+│   ├── DAX_Insights.md         # Detailed DAX function explanations
+│── scripts/                   # Custom scripts for data preprocessing
+│── LICENSE                     # License details
+│── README.md                   # Project documentation
